@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import {Cuestionario} from './components'
 
 
-const API_URL = 'https://opentdb.com/api.php?amount=10&category=11&difficulty=hard'
+const API_URL = 'https://opentdb.com/api.php?amount=10&category=11&difficulty=easy'
 
 function App() {
 
